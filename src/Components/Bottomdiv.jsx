@@ -1,39 +1,3 @@
-// function Bottomdiv(){
-
-
-//     const station  = {
-//         ["MS", "TBM", "CGL", "MLMR", "VM", "VRM", "ALU", "LLI", "SRGM", "GOC", "TPJ", "PDKT", "KKDI"]
-//     };
-//     return(
-
-//           <div className="bg-purple-100 border-t m-5 fixed w-screen bottom-10 border-purple-300 flex justify-between items-center p-4">
-//       {/* Left content */}
-      
-      
-//       <div>
-//         <h2 className="text-sm font-semibold text-gray-700">12605 - MS KKDI Pallavan Express (10 min Delay)</h2>
-//         <div className="flex items-center space-x-4 mt-2">
-//           {["MS", "TBM", "CGL", "MLMR", "VM", "VRM", "ALU", "LLI", "SRGM", "GOC", "TPJ", "PDKT", "KKDI"].map((station, index) => (
-//             <div key={index} className="flex flex-col items-center">
-//               <div className="w-6 h-6 rounded-full bg-purple-500 flex items-center justify-center text-white text-xs font-bold">
-//                 {station[0]}
-//               </div>
-//               <span className="text-xs text-gray-600 mt-1">{station}</span>
-//             </div>
-//           ))}
-//         </div>
-//       </div>
-
-//       {/* Right content (Reserved Space) */}
-//       <div className="flex-1 flex justify-center items-center">
-//         <p className="text-xl text-gray-700 font-semibold transform rotate-[-20deg]">
-//           Reserved Space
-//         </p>
-//       </div>
-//     </div> 
-//     )
-// }export default Bottomdiv
-
 
 
 
